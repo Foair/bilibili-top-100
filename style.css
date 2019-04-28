@@ -1,0 +1,23 @@
+.user {
+  /* display: block; */
+  text-align: center;
+  margin-top: 40px;
+  color: rgb(236, 59, 15);
+  font-size: 20px;
+}
+
+a {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.name {
+  /* display: block; */
+  border-bottom: 2px solid #000;
+}
+
+body {
+  width: 800px;
+  margin: auto;
+}
